@@ -1,1 +1,2 @@
-NO THIS IS MY SITE
+## Welcome to SmartWare
+The human-centric warehouse management software!
